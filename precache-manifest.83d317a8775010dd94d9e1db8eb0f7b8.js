@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7741c250c5aba47fd434b74a4aaad16",
+    "revision": "5f78ec4d3286d76ebb6c296c8ad1f148",
     "url": "/raect_git/index.html"
   },
   {
